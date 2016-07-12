@@ -1,0 +1,11 @@
+LOG:  database system was shut down at 2016-07-11 22:02:17 CLT
+LOG:  MultiXact member wraparound protections are now enabled
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+FATAL:  database "rails_taller_modelos_development" does not exist
+FATAL:  database "rails_taller_modelos_development" does not exist
+FATAL:  database "rails_taller_modelos_development" does not exist
+ERROR:  database "rails_taller_modelos_development" already exists
+STATEMENT:  CREATE DATABASE "rails_taller_modelos_development" ENCODING = 'unicode'
+ERROR:  database "rails_taller_modelos_test" already exists
+STATEMENT:  CREATE DATABASE "rails_taller_modelos_test" ENCODING = 'unicode'
